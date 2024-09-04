@@ -4,7 +4,7 @@ Hi 👋 My name is Potsawat Krudprasert
 I'm student of Sripatum University.
 -----------------------------------
 
-I started with HTML and interested in Frond-end dev
+I started with HTML and interested in Front-end dev
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * 🖥️  See my portfolio at [My Portfolio](https://potswtfolio.vercel.app/)
