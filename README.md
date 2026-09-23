@@ -1,9 +1,6 @@
 Hi 👋 My name is Potsawat Krudprasert
 =====================================
 
-I'm student of Sripatum University.
------------------------------------
-
 I started with HTML and interested in Web-dev
 
 * 🌍  I'm based in Nonthaburi, Thailand
