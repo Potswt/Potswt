@@ -5,7 +5,7 @@ I started with HTML and interested in Web-dev
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * 🖥️  See my portfolio at [My Portfolio](https://potswtfolio.vercel.app/)
-* ✉️  You can contact me at [potsawat.kru@gmail.com)
+* ✉️  You can contact me at potsawat.kru@gmail.com
 
 
 ### Skills
